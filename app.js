@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-05-04T14:37:23.534Z
-Commit: Fix database connection timeout
+Timestamp: 2026-05-19T19:32:12.925Z
+Commit: Resolve timezone issues in date handling
