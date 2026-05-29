@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-05-19T19:32:02.829Z
-Commit: Add export functionality for reports
+Timestamp: 2026-05-29T20:09:44.082Z
+Commit: Introduce real-time notifications
